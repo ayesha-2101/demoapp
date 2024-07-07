@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Weather Information</h1>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Region</th>
+                <th>Temperature (°C)</th>
+                <th>Weather</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Hyderabad</td>
+                <td>@Model.HyderabadTemperature</td>
+                <td>@Model.HyderabadWeather</td>
+            </tr>
+            <tr>
+                <td>London</td>
+                <td>@Model.LondonTemperature</td>
+                <td>@Model.LondonWeather</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

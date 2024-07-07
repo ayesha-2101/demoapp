@@ -1,0 +1,12 @@
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\bin\Release\net8.0\WebApplication6.ServiceDefaults.deps.json
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\bin\Release\net8.0\WebApplication6.ServiceDefaults.dll
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\bin\Release\net8.0\WebApplication6.ServiceDefaults.pdb
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\obj\Release\net8.0\WebApplication6.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\obj\Release\net8.0\WebApplication6.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\obj\Release\net8.0\WebApplication6.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\obj\Release\net8.0\WebApplication6.ServiceDefaults.AssemblyInfo.cs
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\obj\Release\net8.0\WebApplication6.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\obj\Release\net8.0\WebApplication6.ServiceDefaults.dll
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\obj\Release\net8.0\refint\WebApplication6.ServiceDefaults.dll
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\obj\Release\net8.0\WebApplication6.ServiceDefaults.pdb
+C:\Users\t-ayekhan\source\repos\WebApplication6\WebApplication6.ServiceDefaults\obj\Release\net8.0\ref\WebApplication6.ServiceDefaults.dll
